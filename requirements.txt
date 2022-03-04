@@ -1,0 +1,9 @@
+numpy
+pandas
+plotly
+streamlit
+matplotlib.pyplot 
+altair
+plotly.express
+requests
+time
