@@ -6,4 +6,3 @@ matplotlib
 altair
 plotly.express
 requests
-time
