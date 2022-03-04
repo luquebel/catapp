@@ -6,3 +6,5 @@ matplotlib
 altair
 plotly.express
 requests
+streamlit_lottie
+wordcloud
