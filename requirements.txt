@@ -2,7 +2,7 @@ numpy
 pandas
 plotly
 streamlit
-matplotlib.pyplot 
+matplotlib
 altair
 plotly.express
 requests
